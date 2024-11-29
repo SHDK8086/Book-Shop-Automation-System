@@ -1,27 +1,33 @@
 # Book-Shop-Automation-System
 
 Overview
-The Nethra Book Shop Management System is a C++ console-based application designed to streamline operations within a bookshop. It provides features for both owners and cashiers to manage the shop effectively, including inventory management, billing, and customer service. The application serves as a robust and user-friendly solution for daily operations in a bookshop.
+
+The Nethra Book Shop Management System is a C++ console-based application designed to streamline operations within a bookshop. It provides features for both owners and cashiers to manage the shop effectively, including inventory management, billing, and customer service. The application is a robust and user-friendly solution for daily operations in a bookshop.
 
 Features
+
 Owner Features:
-View Available Books:
+1. View Available Books:
 
 Displays a comprehensive list of books available in the inventory, including:
-Book Number
-Book Name
-Available Stock
-Price per Unit
-Add New Book:
+* Book Number
+* Book Name
+* Available Stock
+* Price per Unit
 
-Allows the owner to add new books to the inventory.
-Automatically generates a unique book ID for each new book.
-Search Book:
+2. Add New Book:
 
-Provides a search functionality to find books by their name.
-Logout:
+* Allows the owner to add new books to the inventory.
+* Automatically generates a unique book ID for each new book.
+  
+3. Search Book:
 
-Securely logs the owner out of the system.
+* Provides a search functionality to find books by their name.
+
+4. Logout:
+
+* Securely logs the owner out of the system.
+
 Cashier Features:
 Billing System:
 
